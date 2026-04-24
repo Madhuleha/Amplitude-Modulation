@@ -97,25 +97,14 @@ Output Waveform
 
 <img width="1918" height="1007" alt="Screenshot 2026-04-24 144641" src="https://github.com/user-attachments/assets/1e0f36c8-6ede-48dd-a9b0-30828aa5a91e" />
 
-
-
-
 TABULATION:
 
 <img width="1280" height="774" alt="image" src="https://github.com/user-attachments/assets/ab4f89a3-2c05-4c93-b0d3-627660d9b31c" />
 
-
 Calculation
 <img width="894" height="1234" alt="image" src="https://github.com/user-attachments/assets/e93b8d7e-177b-4741-85a3-459350adfe74" />
 
-
-
 MODEL GRAPH
  <img width="919" height="1290" alt="image" src="https://github.com/user-attachments/assets/55326c5b-7dd5-4873-aaf6-d219bb7c4420" />
-
- 
- 
-
-
 RESULT:
 Thus the amplitude modulation and demodulation is experimentally done and the output is verified.
